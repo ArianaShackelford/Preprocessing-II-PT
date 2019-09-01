@@ -178,6 +178,12 @@ img {
   height: 100px;
   border-bottom: 2px dashed #C0C0C0;
 }
+.navigation a {
+  text-decoration: none;
+  padding: 1rem;
+  color: black;
+  font-size: 2rem;
+}
 .footer {
   width: 100%;
   border-top: 2px dashed silver;
